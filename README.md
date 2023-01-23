@@ -18,6 +18,15 @@ The second data set is the additional data, including 1.2 million random songs. 
 
 In additional, populatiry score was collected to to enrich the feature
 
+## EDA
+#### Radar Plot
+![image](https://user-images.githubusercontent.com/89247170/214058640-ccd94604-1e77-477c-aa75-997417ab9c9e.png)
+
+#### Boxplot & Violinplot
+![image](https://user-images.githubusercontent.com/89247170/214058908-eb239e77-b197-442a-9fc6-e7affa8d28e1.png)
+
+#### Histogram
+![image](https://user-images.githubusercontent.com/89247170/214059003-397ad80c-d2ad-4907-9e25-37ae946e386e.png)
 
 ## DATA SOURCE
 The data set used comes from Kaggle source:
